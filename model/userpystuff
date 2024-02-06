@@ -1,0 +1,5 @@
+_favcolor = db.Column(db.String)
+_favfood = db.Column(db.String)
+favcolor="NULL", favfood="NULL"
+        self._favcolor = favcolor
+        self._favfood = favfood
